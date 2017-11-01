@@ -1,6 +1,8 @@
 package quickstart;
 import java.util.*;
 
+//https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm
+//followed by the pseudocode in wiki
 public class Tarjan {
     //check if is the strongly connected components
     // Complexity:  O(|V|+|E|)
